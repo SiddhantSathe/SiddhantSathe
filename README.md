@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💡 I'm interested in **Data Science & Analytics, Machine Learning**
+- 💡 I'm interested in **Data Science & Analytics**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **sathesiddhant21@gmail.com**
+- 📫 Reach me at **sathesiddhant21@gmail.com**
 
 - ⚡ Fun fact **I am fascinated by travel because I learn about new cultures and meet people.**
 
@@ -47,7 +47,8 @@
 
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantsathe&show_icons=true&locale=en&layout=compact" alt="siddhantsathe" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhantsathe&show_icons=true&locale=en" alt="siddhantsathe" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantsathe&show_icons=true&locale=en&layout=compact" alt="siddhantsathe" />&nbsp;</p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsathe" alt="siddhantsathe" /></a> </p>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsathe" alt="siddhantsathe" /></a> </p>
 
